@@ -1,5 +1,5 @@
 {
-  "name": "humanmade/aws-ses-wp-mail",
+  "name": "noahott/aws-ses-wp-mail",
   "description": "WordPress plugin to send mail via SES",
   "homepage": "https://github.com/humanmade/aws-ses-wp-mail",
   "keywords": [
